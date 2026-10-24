@@ -1,15 +1,15 @@
 package user;
 
-import strategy.IChargingSystem;
+import charging.IChargingMethod;
 
 public abstract class User {
-    protected IChargingSystem strategy;
+    protected IChargingMethod charging;
 
-    public void setW(IChargingSystem strategy) {
-        this.strategy = strategy;
+    public void setChargingMethod(IChargingMethod charging) {
+        this.charging = charging;
     }
 
-    public void co(){
-        this.strategy.choice();
+    public void useChargingMethod() {
+        this.charging.choice();
     }
 }
