@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd6b1eb-a1c3-45b3-9085-4a242fa5534c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/IStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/r.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/t.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/e.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/s.java" afterDir="false" />
+    <list default="true" id="6fd6b1eb-a1c3-45b3-9085-4a242fa5534c" name="Changes" comment="start">
+      <change afterPath="$PROJECT_DIR$/src/strategy/Cable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/PowerBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Wireless.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/IStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/IChargingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/r.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/t.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/y.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/e.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/e.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/s.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1792835733280</updated>
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1792835818353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792835818353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
 </project>

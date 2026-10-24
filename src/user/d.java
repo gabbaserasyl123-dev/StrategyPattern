@@ -1,4 +1,9 @@
 package user;
 
-public class d {
+import strategy.Cable;
+
+public class d extends User {
+    public d() {
+        this.strategy = new Cable();
+    }
 }
